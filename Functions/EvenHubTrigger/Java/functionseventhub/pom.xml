@@ -6,7 +6,8 @@
     <groupId>org.learn.azure.functions</groupId>
     <artifactId>functions-eventhub</artifactId>
     <version>1.0</version>
-    <packaging>jar</packaging>
+
+    <packaging>pom</packaging>
 
     <name>Azure Java Functions</name>
 
