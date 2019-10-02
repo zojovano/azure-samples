@@ -21,10 +21,10 @@ public class EventHubTestClientApp {
             throws EventHubException, ExecutionException, InterruptedException, IOException {
 
         final ConnectionStringBuilder connStr = new ConnectionStringBuilder()
-                .setNamespaceName("<EVENTHUB NAMESPACE")
-                .setEventHubName("EVENT HUB")
-                .setSasKeyName("RootManageSharedAccessKey")
-                .setSasKey("SHARED ACCESS KEY");
+                .setNamespaceName("democsucsa-ehub")
+                .setEventHubName("ehub")
+                .setSasKeyName("send")
+                .setSasKey("d5gwq44x6fhz+rF0/WDzJuWvjMEOtTN1UhI2W1rA1q4=");
 
         final Gson gson = new GsonBuilder().create();
 

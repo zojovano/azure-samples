@@ -5,7 +5,7 @@
     "AzureWebJobsStorage": "UseDevelopmentStorage=true",
     "AzureWebJobsSecretStorageType": "files",
     "AzureWebJobsDashboard": "UseDevelopmentStorage=true",
-    "evenhubconnection": "{Even Hub connection from SAS config page}"
+    "evenhubconnection": "{connection from azure portal SAS key page}"
   },
   "extensions": {
     "eventHubs": {
