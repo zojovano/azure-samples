@@ -3,9 +3,6 @@
 ## Tags
 Java, Maven, Even Hub, Azure, Functions, Trigger
 
-## Problem
-Team is unable to make Azure Function - Even hub Trigger working with Java dev environment. 
-
 ## Solution Description
 
 Simple Azure Function (Maven) Java project sample using Azure Even Hub trigger.
