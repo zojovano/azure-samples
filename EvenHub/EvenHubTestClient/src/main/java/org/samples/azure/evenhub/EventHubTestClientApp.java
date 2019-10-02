@@ -24,7 +24,7 @@ public class EventHubTestClientApp {
                 .setNamespaceName("democsucsa-ehub")
                 .setEventHubName("ehub")
                 .setSasKeyName("send")
-                .setSasKey("d5gwq44x6fhz+rF0/WDzJuWvjMEOtTN1UhI2W1rA1q4=");
+                .setSasKey("{ASA Key}");
 
         final Gson gson = new GsonBuilder().create();
 
